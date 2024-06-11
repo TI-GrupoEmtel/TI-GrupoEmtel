@@ -4,17 +4,13 @@
 </p>
 
 <!-- Sobre mim -->
-<h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Grupo+Emtel+🇧🇷;Tecnologia+e+Inovação+👨‍💻"></a></h1>
+<h1> Grupo Emtel <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Grupo+Emtel+🇧🇷;Tecnologia+e+Inovação+👨‍💻"></a></h1>
 <br>
 
 <!-- Descrição -->
 <p>
 
-# Grupo Emtel
-
 Bem-vindo ao repositório oficial do Grupo Emtel no GitHub!
-
-## Sobre Nós
 
 O Grupo Emtel é uma holding de empresas líderes nos setores de logística, transporte, venda de veículos e tratores. Com um compromisso contínuo com a excelência e a inovação, oferecemos uma ampla gama de serviços que incluem:
 
