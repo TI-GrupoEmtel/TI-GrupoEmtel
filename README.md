@@ -4,27 +4,20 @@
 </p>
 
 <!-- Sobre mim -->
-<h1> Grupo Emtel <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Grupo+Emtel+🇧🇷;Tecnologia+e+Inovação+👨‍💻"></a></h1>
+<h1> Grupo ETAN <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Grupo+Emtel+🇧🇷;Tecnologia+e+Inovação+👨‍💻"></a></h1>
 <br>
 
 <!-- Descrição -->
 <p>
 
-Bem-vindo ao repositório oficial do Grupo Emtel no GitHub!
+Bem-vindo ao repositório oficial do Grupo ETAN no GitHub!
 
-O Grupo Emtel é uma holding de empresas líderes nos setores de logística, transporte, venda de veículos e tratores. Com um compromisso contínuo com a excelência e a inovação, oferecemos uma ampla gama de serviços que incluem:
+O Grupo ETAN é uma holding de empresas líderes nos setores de logística, transporte, venda de veículos e tratores. Com um compromisso contínuo com a excelência e a inovação, oferecemos uma ampla gama de serviços que incluem:
 
 - **Locação de Galpões**: Soluções personalizadas para armazenagem de insumos.
 - **Programação de Entregas**: Eficiência e precisão na entrega de insumos.
 - **Venda de Veículos e Tratores**: Oferecemos uma vasta seleção de veículos novos e seminovos, incluindo tratores de alta performance.
 - **Licitações e Contratos de Locação**: Participação em licitações para locação de máquinas, caminhões e carros, com um portfólio diversificado de contratos de prestação de serviços.
-
-## Nossas Empresas
-
-O Grupo Emtel inclui diversas empresas renomadas, tais como:
-
-- **Grupo Triasa**: Especializada em locação de frotas e serviços de transporte.
-- **Grupo Inoveza**: Focada em contratos de prestação de serviços e locação de tratores, com atuação nacional.
 
 ## Nossa Missão
 
@@ -32,7 +25,7 @@ Nosso objetivo é fornecer soluções logísticas integradas que maximizem a efi
 
 ## Projetos no GitHub
 
-No GitHub do Grupo Emtel, você encontrará projetos que refletem nossa dedicação à inovação e à melhoria contínua de nossos processos e serviços. Aqui, compartilhamos ferramentas e soluções desenvolvidas internamente que podem beneficiar a comunidade de tecnologia e nossos parceiros.
+No GitHub do Grupo ETAN, você encontrará projetos que refletem nossa dedicação à inovação e à melhoria contínua de nossos processos e serviços. Aqui, compartilhamos ferramentas e soluções desenvolvidas internamente que podem beneficiar a comunidade de tecnologia e nossos parceiros.
 
 ## Entre em Contato
 
